@@ -10,7 +10,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**OrangeHRM Starter Demo** allows users to experiment with all the features of OrangeHRM Starter without restriction.
+  introTitle: "**OrangeHRM Starter Demo** allows users to experiment with all the features of OrangeHRM Starter without restriction."
   introMessage: This status page uses Upptime to monitor the status of the OrangeHRM Starter Demo
   navbar:
     - title: Status
